@@ -39,7 +39,7 @@ Do NOT use it to prank or disrupt real networks. That’s illegal in many places
    - Tools → Port: whatever your ESP shows up as
 6. Upload and you’re good to go ✨
 
-##❓ FAQ
+## ❓ FAQ
 
 Q: Will this crash WiFi networks?
 A: No. It only sends out fake beacons. It doesn’t jam or attack real WiFi.
@@ -50,10 +50,10 @@ A: Phones filter out duplicates & sketchy beacons. Try scanning with apps like W
 Q: Is it legal?
 A: In most places, spamming SSIDs isn’t allowed outside of controlled environments (like testing labs). Use responsibly.
 
-##🙏 Credits
+## 🙏 Credits
 Inspired by ESP8266 Deauther
 
 You, for not bricking your device
 
-##📜 License
+## 📜 License
 MIT — free to remix, but don’t be a jerk with it.
